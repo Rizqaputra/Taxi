@@ -1,0 +1,11 @@
+E:\Belajar\taxi\taxi\taxi\bin\Debug\netcoreapp3.1\taxi.exe
+E:\Belajar\taxi\taxi\taxi\bin\Debug\netcoreapp3.1\taxi.deps.json
+E:\Belajar\taxi\taxi\taxi\bin\Debug\netcoreapp3.1\taxi.runtimeconfig.json
+E:\Belajar\taxi\taxi\taxi\bin\Debug\netcoreapp3.1\taxi.runtimeconfig.dev.json
+E:\Belajar\taxi\taxi\taxi\bin\Debug\netcoreapp3.1\taxi.dll
+E:\Belajar\taxi\taxi\taxi\bin\Debug\netcoreapp3.1\taxi.pdb
+E:\Belajar\taxi\taxi\taxi\obj\Debug\netcoreapp3.1\taxi.csprojAssemblyReference.cache
+E:\Belajar\taxi\taxi\taxi\obj\Debug\netcoreapp3.1\taxi.AssemblyInfoInputs.cache
+E:\Belajar\taxi\taxi\taxi\obj\Debug\netcoreapp3.1\taxi.AssemblyInfo.cs
+E:\Belajar\taxi\taxi\taxi\obj\Debug\netcoreapp3.1\taxi.dll
+E:\Belajar\taxi\taxi\taxi\obj\Debug\netcoreapp3.1\taxi.pdb
